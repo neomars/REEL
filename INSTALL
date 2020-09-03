@@ -1,5 +1,17 @@
-# INSTALL
+# 1 INSTALL
+
 ## Install with git
 git clone https://github.com/neomars/REEL.git
 ## Download and unzip
 https://github.com/neomars/REEL/archive/master.zip
+
+# 2 Configure
+Edit  .env
+Configure: 
+  1. DATABASE_URL
+  2. MAILER_URL
+
+cas-bundle and jwt-authentication-bundle are not avialable at this time.
+Read ROADMAP for more details. ;)
+
+
