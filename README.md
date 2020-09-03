@@ -19,6 +19,13 @@ This interface is discriminated according to the assigned rights.
 
 2020 - Martial LIMOUSIN - University of Rennes 2 - MIT License
 
+## Contact
+ - DEv  = Martial LIMOUSIN 
+ 
+ martial.limousin@gmail.com
+ 
+ martial.limousin@univ-rennes2.fr
+
 ## Technology
 
  - Language : PHP
